@@ -1,6 +1,6 @@
 {
   "name": "beth-stack",
-  "module": "index.ts",
+  "module": "src/index.tsx",
   "type": "module",
   "scripts": {
     "db:push": "bunx drizzle-kit push:sqlite",
